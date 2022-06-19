@@ -1,0 +1,4 @@
+n=int(input("Enter the radius:"))
+pi=3.14
+a=pi*n*n
+print("The area of the circle with radius 1.1 is:",a)
